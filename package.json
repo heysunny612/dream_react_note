@@ -1,0 +1,10 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.js",
+  "repository": "react",
+  "author": "suyeon",
+  "license": "MIT",
+  "private": true
+}
